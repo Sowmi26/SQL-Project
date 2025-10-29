@@ -3,7 +3,7 @@
 ###  Project Overview  
 AtliQ Hardwares is one of the leading computer hardware producers in India, with a growing presence in other countries. However, the management team noticed a lack of data-driven insights to support quick and informed decision-making.  
 
-To overcome this challenge, the analytics team leveraged **SQL** for data exploration and analysis, followed by **Power BI** for interactive visualization and storytelling. The goal was to transform raw business data into actionable insights that empower strategic decisions across sales, marketing, and operations.  
+To overcome this challenge, the company decided to opt for Data analysis. The goal was to transform raw business data into actionable insights that empower strategic decisions across sales, marketing, and operations.  
 
 ---
 
@@ -29,8 +29,7 @@ Management needed analytical insights to:
 
 ###  Tools & Technologies  
 - **SQL** → Data extraction, cleaning, and analysis  
-- **Power BI** → Interactive dashboards and storytelling  
-- **Excel** → Validation and data summaries (optional)  
+- **Power BI** → Interactive dashboards and storytelling    
 
 ---
 
